@@ -34,19 +34,19 @@ docker compose up -d
 
 ## Connect Visual Studio to container
 
-Click the left bottom button to open remote window function list
+Click the left bottom button to open remote window function list<br/>
 ![open remote window](../screenshots/python/1-1.png)
 
-Attach to a running container
+Attach to a running container<br/>
 ![connect to container](../screenshots/python/1-2.png)
 
-Select the docker container
+Select the docker container<br/>
 ![attach to running container](../screenshots/python/1-3.png)
 
-Visual Studio Code editor in remote mode
+Visual Studio Code editor in remote mode<br/>
 ![editor for remote](../screenshots/python/1-4.png)
 
-Close remote connection with finish
+Close remote connection with finish<br/>
 ![disconnect](../screenshots/python/1-5.png)
 
 
