@@ -32,6 +32,8 @@ docker compose up -d
 2. Dev Containers
 3. Python (optional)
 
+![extensions](../screenshots/python/extensions.png)
+
 ## Connect Visual Studio to container
 
 Click the left bottom button to open remote window function list<br/>
